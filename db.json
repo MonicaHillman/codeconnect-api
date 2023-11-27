@@ -1,52 +1,136 @@
 {
     "publicacoes": [
         {
+            "id": 1,
             "imagem_capa": "https://github.com/MonicaHillman/codeconnect-api/blob/main/img/artigo1.png?raw=true",
             "titulo": "Introdução ao Desenvolvimento Web com HTML e CSS",
             "resumo": "Um guia abrangente para iniciantes sobre como começar a criar páginas web usando HTML e CSS.",
-            "linhas_de_codigo": 500,
+            "tags": ["programacao", "frontend", "html", "css"],
+            "linhas_de_codigo": 17,
             "compartilhamentos": 50,
-            "comentarios": 30,
+            "comentarios": 2,
             "usuario": {
                 "imagem": "https://github.com/MonicaHillman/codeconnect-api/blob/main/img/icone1.png?raw=true",
                 "nome": "Julia"
-            }
+            },
+            "conteudo_codigo":"  <html>\r\n    <head>\r\n       <title>Minha Página</title>\r\n        <style>\r\n          body {\r\n            font-family: 'Arial', sans-serif;\r\n            background-color: #f0f0f0;\r\n            color: #333;\r\n            text-align: center;\r\n            }\r\n        </style>\r\n    </head>\r\n    <body>\r\n      <h1>Olá, mundo!</h1>\r\n      <p>Bem-vindo ao meu site.</p>\r\n    </body>\r\n</html>",
+            "comentarios_postagem": [
+                {
+                    "id": 1,
+                    "usuario": {
+                        "imagem": "https://github.com/MonicaHillman/codeconnect-api/blob/main/img/icone5.png?raw=true",
+                        "nome": "Carlos"
+                    },
+                    "texto": "Ótimo guia para iniciantes!"
+                },
+                {
+                    "id": 2,
+                    "usuario": {
+                        "imagem": "https://github.com/MonicaHillman/codeconnect-api/blob/main/img/icone6.png?raw=true",
+                        "nome": "Larissa"
+                    },
+                    "texto": "Adorei as dicas sobre CSS!"
+                }
+            ]
         },
         {
+            "id": 2,
             "imagem_capa": "https://github.com/MonicaHillman/codeconnect-api/blob/main/img/artigo2.png?raw=true",
             "titulo": "Aprenda Python: Fundamentos para Iniciantes",
             "resumo": "Explore os conceitos básicos da linguagem de programação Python e dê os primeiros passos na codificação.",
-            "linhas_de_codigo": 300,
+            "tags": ["programacao", "backend", "dados", "python"],
+            "linhas_de_codigo": 2,
             "compartilhamentos": 40,
-            "comentarios": 25,
+            "comentarios": 2,
             "usuario": {
                 "imagem": "https://github.com/MonicaHillman/codeconnect-api/blob/main/img/icone2.png?raw=true",
                 "nome": "Amanda"
-            }
+            },
+            "conteudo_codigo": "# Meu Primeiro Programa em Python\r\nprint(\"Olá, mundo!\")",
+            "comentarios_postagem": [
+                {
+                    "id": 3,
+                    "usuario": {
+                        "imagem": "https://github.com/MonicaHillman/codeconnect-api/blob/main/img/icone7.png?raw=true",
+                        "nome": "Gabriel"
+                    },
+                    "texto": "Python é uma linguagem incrível!"
+                },
+                {
+                    "id": 4,
+                    "usuario": {
+                        "imagem": "https://github.com/MonicaHillman/codeconnect-api/blob/main/img/icone8.png?raw=true",
+                        "nome": "Lucas"
+                    },
+                    "texto": "Ótimo guia para iniciantes!"
+                }
+            ]
         },
         {
+            "id": 3,
             "imagem_capa": "https://github.com/MonicaHillman/codeconnect-api/blob/main/img/artigo3.png?raw=true",
             "titulo": "Dominando JavaScript: Conceitos Avançados",
             "resumo": "Aprofunde seus conhecimentos em JavaScript, abordando tópicos avançados e práticos para se tornar um desenvolvedor front-end mais habilidoso.",
-            "linhas_de_codigo": 700,
+            "tags": ["programacao", "frontend", "backend", "javascript"],
+            "linhas_de_codigo": 15,
             "compartilhamentos": 55,
-            "comentarios": 35,
+            "comentarios": 2,
             "usuario": {
                 "imagem": "https://github.com/MonicaHillman/codeconnect-api/blob/main/img/icone3.png?raw=true",
                 "nome": "Pedro"
-            }
+            },
+            "conteudo_codigo": "// Usando Promises em JavaScript\r\nfunction minhaPromise() {\r\n  return new Promise((resolve, reject) => {\r\n    setTimeout(() => {\r\n      resolve('Promessa resolvida!');\r\n    }, 2000);\r\n  });\r\n}\r\n\r\nasync function executaPromise() {\r\n  const resultado = await minhaPromise();\r\n  console.log(resultado);\r\n}\r\n\r\nexecutaPromise();",
+            "comentarios_postagem": [
+                {
+                    "id": 5,
+                    "usuario": {
+                        "imagem": "https://github.com/MonicaHillman/codeconnect-api/blob/main/img/icone9.png?raw=true",
+                        "nome": "Isabela"
+                    },
+                    "texto": "JavaScript é poderoso!"
+                },
+                {
+                    "id": 6,
+                    "usuario": {
+                        "imagem": "https://github.com/MonicaHillman/codeconnect-api/blob/main/img/icone10.png?raw=true",
+                        "nome": "Rafael"
+                    },
+                    "texto": "Excelente explicação sobre Promises."
+                }
+            ]
         },
         {
+            "id": 4,
             "imagem_capa": "https://github.com/MonicaHillman/codeconnect-api/blob/main/img/artigo4.png?raw=true",
             "titulo": "Machine Learning na Prática com Python",
             "resumo": "Um guia passo a passo para implementar algoritmos de Machine Learning utilizando a linguagem de programação Python.",
-            "linhas_de_codigo": 600,
+            "tags": ["programacao", "machine learning", "python", "dados"],
+            "linhas_de_codigo": 22,
             "compartilhamentos": 45,
-            "comentarios": 20,
+            "comentarios": 2,
             "usuario": {
                 "imagem": "https://github.com/MonicaHillman/codeconnect-api/blob/main/img/icone4.png?raw=true",
                 "nome": "Akemi"
-            }
+            },
+            "conteudo_codigo": "# Classificação usando Scikit-Learn\r\nfrom sklearn import datasets\r\nfrom sklearn.model_selection import train_test_split\r\nfrom sklearn.neighbors import KNeighborsClassifier\r\nfrom sklearn import metrics\r\n\r\n# Carregando o conjunto de dados Iris\r\niris = datasets.load_iris()\r\nX_train, X_test, y_train, y_test = train_test_split(iris.data, iris.target, test_size=0.2, random_state=42)\r\n\r\n# Criando o modelo KNN\r\nknn = KNeighborsClassifier(n_neighbors=3)\r\n\r\n# Treinando o modelo\r\nknn.fit(X_train, y_train)\r\n\r\n# Fazendo previsões\r\ny_pred = knn.predict(X_test)\r\n\r\n# Avaliando a precisão do modelo\r\naccuracy = metrics.accuracy_score(y_test, y_pred)\r\nprint(f'Acurácia do modelo: {accuracy}')",
+            "comentarios_postagem": [
+                {
+                    "id": 7,
+                    "usuario": {
+                        "imagem": "https://github.com/MonicaHillman/codeconnect-api/blob/main/img/icone11.png?raw=true",
+                        "nome": "Daniel"
+                    },
+                    "texto": "Machine Learning é fascinante!"
+                },
+                {
+                    "id": 8,
+                    "usuario": {
+                        "imagem": "https://github.com/MonicaHillman/codeconnect-api/blob/main/img/icone12.png?raw=true",
+                        "nome": "Laura"
+                    },
+                    "texto": "Guia prático e bem explicado."
+                }
+            ]
         }
     ]
 }
