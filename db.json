@@ -1,51 +1,51 @@
 {
     "publicacoes": [
         {
-            "imagem_capa": "url_da_imagem1.jpg",
+            "imagem_capa": "https://github.com/MonicaHillman/codeconnect-api/blob/main/img/artigo1.png",
             "titulo": "Introdução ao Desenvolvimento Web com HTML e CSS",
             "resumo": "Um guia abrangente para iniciantes sobre como começar a criar páginas web usando HTML e CSS.",
             "linhas_de_codigo": 500,
             "compartilhamentos": 50,
             "comentarios": 30,
             "usuario": {
-                "imagem": "url_da_imagem_usuario1.jpg",
-                "nome": "Nome do Usuário 1"
+                "imagem": "https://github.com/MonicaHillman/codeconnect-api/blob/main/img/icone1.png",
+                "nome": "Julia"
             }
         },
         {
-            "imagem_capa": "url_da_imagem2.jpg",
+            "imagem_capa": "https://github.com/MonicaHillman/codeconnect-api/blob/main/img/artigo2.png",
             "titulo": "Aprenda Python: Fundamentos para Iniciantes",
             "resumo": "Explore os conceitos básicos da linguagem de programação Python e dê os primeiros passos na codificação.",
             "linhas_de_codigo": 300,
             "compartilhamentos": 40,
             "comentarios": 25,
             "usuario": {
-                "imagem": "url_da_imagem_usuario2.jpg",
-                "nome": "Nome do Usuário 2"
+                "imagem": "https://github.com/MonicaHillman/codeconnect-api/blob/main/img/icone2.png",
+                "nome": "Amanda"
             }
         },
         {
-            "imagem_capa": "url_da_imagem3.jpg",
+            "imagem_capa": "https://github.com/MonicaHillman/codeconnect-api/blob/main/img/artigo3.png",
             "titulo": "Dominando JavaScript: Conceitos Avançados",
             "resumo": "Aprofunde seus conhecimentos em JavaScript, abordando tópicos avançados e práticos para se tornar um desenvolvedor front-end mais habilidoso.",
             "linhas_de_codigo": 700,
             "compartilhamentos": 55,
             "comentarios": 35,
             "usuario": {
-                "imagem": "url_da_imagem_usuario3.jpg",
-                "nome": "Nome do Usuário 3"
+                "imagem": "https://github.com/MonicaHillman/codeconnect-api/blob/main/img/icone3.png",
+                "nome": "Pedro"
             }
         },
         {
-            "imagem_capa": "url_da_imagem4.jpg",
+            "imagem_capa": "https://github.com/MonicaHillman/codeconnect-api/blob/main/img/artigo4.png",
             "titulo": "Machine Learning na Prática com Python",
             "resumo": "Um guia passo a passo para implementar algoritmos de Machine Learning utilizando a linguagem de programação Python.",
             "linhas_de_codigo": 600,
             "compartilhamentos": 45,
             "comentarios": 20,
             "usuario": {
-                "imagem": "url_da_imagem_usuario4.jpg",
-                "nome": "Nome do Usuário 4"
+                "imagem": "https://github.com/MonicaHillman/codeconnect-api/blob/main/img/icone4.png",
+                "nome": "Akemi"
             }
         }
     ]
