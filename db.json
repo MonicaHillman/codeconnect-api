@@ -1,50 +1,50 @@
 {
     "publicacoes": [
         {
-            "imagem_capa": "https://github.com/MonicaHillman/codeconnect-api/blob/main/img/artigo1.png",
+            "imagem_capa": "https://github.com/MonicaHillman/codeconnect-api/blob/main/img/artigo1.png?raw=true",
             "titulo": "Introdução ao Desenvolvimento Web com HTML e CSS",
             "resumo": "Um guia abrangente para iniciantes sobre como começar a criar páginas web usando HTML e CSS.",
             "linhas_de_codigo": 500,
             "compartilhamentos": 50,
             "comentarios": 30,
             "usuario": {
-                "imagem": "https://github.com/MonicaHillman/codeconnect-api/blob/main/img/icone1.png",
+                "imagem": "https://github.com/MonicaHillman/codeconnect-api/blob/main/img/icone1.png?raw=true",
                 "nome": "Julia"
             }
         },
         {
-            "imagem_capa": "https://github.com/MonicaHillman/codeconnect-api/blob/main/img/artigo2.png",
+            "imagem_capa": "https://github.com/MonicaHillman/codeconnect-api/blob/main/img/artigo2.png?raw=true",
             "titulo": "Aprenda Python: Fundamentos para Iniciantes",
             "resumo": "Explore os conceitos básicos da linguagem de programação Python e dê os primeiros passos na codificação.",
             "linhas_de_codigo": 300,
             "compartilhamentos": 40,
             "comentarios": 25,
             "usuario": {
-                "imagem": "https://github.com/MonicaHillman/codeconnect-api/blob/main/img/icone2.png",
+                "imagem": "https://github.com/MonicaHillman/codeconnect-api/blob/main/img/icone2.png?raw=true",
                 "nome": "Amanda"
             }
         },
         {
-            "imagem_capa": "https://github.com/MonicaHillman/codeconnect-api/blob/main/img/artigo3.png",
+            "imagem_capa": "https://github.com/MonicaHillman/codeconnect-api/blob/main/img/artigo3.png?raw=true",
             "titulo": "Dominando JavaScript: Conceitos Avançados",
             "resumo": "Aprofunde seus conhecimentos em JavaScript, abordando tópicos avançados e práticos para se tornar um desenvolvedor front-end mais habilidoso.",
             "linhas_de_codigo": 700,
             "compartilhamentos": 55,
             "comentarios": 35,
             "usuario": {
-                "imagem": "https://github.com/MonicaHillman/codeconnect-api/blob/main/img/icone3.png",
+                "imagem": "https://github.com/MonicaHillman/codeconnect-api/blob/main/img/icone3.png?raw=true",
                 "nome": "Pedro"
             }
         },
         {
-            "imagem_capa": "https://github.com/MonicaHillman/codeconnect-api/blob/main/img/artigo4.png",
+            "imagem_capa": "https://github.com/MonicaHillman/codeconnect-api/blob/main/img/artigo4.png?raw=true",
             "titulo": "Machine Learning na Prática com Python",
             "resumo": "Um guia passo a passo para implementar algoritmos de Machine Learning utilizando a linguagem de programação Python.",
             "linhas_de_codigo": 600,
             "compartilhamentos": 45,
             "comentarios": 20,
             "usuario": {
-                "imagem": "https://github.com/MonicaHillman/codeconnect-api/blob/main/img/icone4.png",
+                "imagem": "https://github.com/MonicaHillman/codeconnect-api/blob/main/img/icone4.png?raw=true",
                 "nome": "Akemi"
             }
         }
