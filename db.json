@@ -52,7 +52,7 @@
                     "id": 3,
                     "usuario": {
                         "imagem": "https://github.com/MonicaHillman/codeconnect-api/blob/main/img/icone7.png?raw=true",
-                        "nome": "Gabriel"
+                        "nome": "Gabriela"
                     },
                     "texto": "Python é uma linguagem incrível!"
                 },
@@ -118,7 +118,7 @@
                     "id": 7,
                     "usuario": {
                         "imagem": "https://github.com/MonicaHillman/codeconnect-api/blob/main/img/icone11.png?raw=true",
-                        "nome": "Daniel"
+                        "nome": "Daniela"
                     },
                     "texto": "Machine Learning é fascinante!"
                 },
